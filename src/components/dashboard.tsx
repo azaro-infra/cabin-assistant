@@ -157,11 +157,9 @@ export function Dashboard() {
       <main>
         <div className="page-heading">
           <div>
-            <span className="eyebrow">IN-VEHICLE AI / LOCAL EXPERIMENT</span>
-            <h1>See the scene. Follow the agent.</h1>
+            <h1>A co-pilot that sees the road.</h1>
             <p>
-              A small, inspectable cabin assistant. Video in, local intelligence
-              out.
+              An in-car assistant that understands video and runs entirely on-device.
             </p>
           </div>
           <div className="model-status">
